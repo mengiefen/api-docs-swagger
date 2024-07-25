@@ -3,7 +3,7 @@ info:
   title: API Documentation
   version: 1.0.0
 servers:
-  - url: https://ledupblockchain.azurewebsites.net/api
+  - url: http://localhost:7071/api
 paths:
   /getData:
     get:
